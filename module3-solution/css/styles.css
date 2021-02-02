@@ -1,0 +1,21 @@
+h2 {
+    margin-top: 10px;
+}
+
+.col-lg-12 {
+    background-color: #dddff0;
+}
+
+.nav-item:hover {
+    background-color: #dddff0;
+}
+
+h1:hover {
+    color: #c7cbe7;
+}
+
+@media (max-width: 767px){
+    .visible-sm {
+        visibility: visible !important;
+    }
+}
